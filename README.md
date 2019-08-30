@@ -14,7 +14,7 @@
 - Week 4: Network Evolution
 
 ## Bonus readings
--
+- 
 - 
 - 
 - 

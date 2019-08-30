@@ -1,5 +1,7 @@
 # [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis?) @ Coursera
 
+#### *This course is part of the Applied Data Science with Python Specialization*
+
 ### Feel free to read. I hope it helps you on YOUR OWN work.
 
 ### Despite the MIT License, remember Coursera's [Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code) and [Code of Conduct](https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct)!

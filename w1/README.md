@@ -1,1 +1,1 @@
-![assign1](./media/screenshot.png)
+![assgn1](./media/assgn1.png)

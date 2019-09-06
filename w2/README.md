@@ -1,4 +1,4 @@
-//![](./media/ass2.pgn)
+// assgn2.png ![](./media/assgn2.pgn)
 
 # Cheatsheet
 
@@ -18,7 +18,7 @@
     LCCi = 2*n / (d(i) * (d(i)−1))
 
     ```
-
+    
     - For nodes of degree < 2, since we can't divide by zero, assume a LCCi of 0
 
 - Global clustering coefficient: Average of LCCs
@@ -59,10 +59,3 @@
 
 - The ability to maintain its general structural properties when it faces failures or attacks (e.g.: removal of edges). Maintain it's connectivity, like the world wide web, or flight paths
 
-- 
-
-- 
-
-- 
-
-- 

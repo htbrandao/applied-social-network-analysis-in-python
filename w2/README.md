@@ -18,7 +18,7 @@
     LCCi = 2*n / (d(i) * (d(i)−1))
 
     ```
-    
+
     - For nodes of degree < 2, since we can't divide by zero, assume a LCCi of 0
 
 - Global clustering coefficient: Average of LCCs
@@ -48,6 +48,7 @@
 - Connected component:
 
 - Subset of the graph, on which:
+
     - Every node in the subset as a path to every other node
     - No other node (from outside) has a path to any node in the subset
 

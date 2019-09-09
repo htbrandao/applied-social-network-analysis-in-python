@@ -1,5 +1,3 @@
-- [!] **Cannot understand what is wrong with questions #12 e #13. Sorry, for now!**
-
 ![assgn2](./media/assgn2.png)
 
 

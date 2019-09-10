@@ -61,3 +61,21 @@
 
 - The ability to maintain its general structural properties when it faces failures or attacks (e.g.: removal of edges). Maintain it's connectivity, like the world wide web, or flight paths
 
+## Network Centrality
+
+- Identifies the most importante nodes in a network
+
+    - Directed network: degree
+    - Undirected network: in-degree and/or out-degree
+
+## Closenesse Centrality
+
+- Nodes that are important, will be close to other nodes
+
+        The "closeness_centrality" method is ALREADY normalized using:
+
+        ( (n-1) / (|G|-1) )
+    
+        There's no need to do it manually, like in the course!
+
+## 

@@ -14,11 +14,12 @@
 - Week 4: Network Evolution
 
 ## Bonus readings
+- [NetworkX Documentation](https://networkx.github.io/documentation/stable/)
+- [A Data Science Framework: To Achieve 99% Accuracy](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
+- [A Kaggler's Guide to Model Stacking in Practice](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/?source=post_page---------------------------)
+- [Knowledge Graphs are the new Black](https://medium.com/hackernoon/knowledge-graphs-are-the-new-black-the-year-of-the-graph-newsletter-may-2019-6f5ce994d821) @ Hacker Noon
 - 
 - 
-- 
-- 
-
 
 
 ##### Enjoy! &#8718;

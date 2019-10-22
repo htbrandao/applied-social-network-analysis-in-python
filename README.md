@@ -20,8 +20,7 @@
 - [Knowledge Graphs are the new Black](https://medium.com/hackernoon/knowledge-graphs-are-the-new-black-the-year-of-the-graph-newsletter-may-2019-6f5ce994d821) @ Hacker Noon
 - [Power Law](https://www.statisticshowto.datasciencecentral.com/power-law/)
 
-
-##### Enjoy! &#8718;
-
 ![certificate](./cert.png)
 ![specialization certificate](./certSpec.png)
+
+##### Enjoy! &#8718;

@@ -1,4 +1,4 @@
-![assgn2](./media/assgn2.png)
+![assgn2](media/assgn2.png)
 
 
 # Cheatsheet

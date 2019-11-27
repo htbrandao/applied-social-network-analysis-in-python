@@ -1,4 +1,4 @@
-![assgn1](./media/assgn1.png)
+![assgn1](media/assgn1.png)
 
 # Disclaimer
 

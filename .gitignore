@@ -1,4 +1,24 @@
-socialNetAnalysis/*/.ipynb_checkpoints
 .vscode/
 .idea/
 
+__pycache__/
+.ipynb_checkpoints/
+
+socialNetAnalysis/*/.ipynb_checkpoints/
+socialNetAnalysis/*/*/.ipynb_checkpoints/
+
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*/*/*/*/__pycache__/
+*/*/*/*/*/__pycache__/
+*/*/*/*/*/*/__pycache__/
+*/*/*/*/*/*/*/__pycache__/
+
+*/.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
+*/*/*/.ipynb_checkpoints/
+*/*/*/*/.ipynb_checkpoints/
+*/*/*/*/*/.ipynb_checkpoints/
+*/*/*/*/*/*/.ipynb_checkpoints/
+*/*/*/*/*/*/*/.ipynb_checkpoints/
